@@ -1,5 +1,5 @@
 # 💫 About Me:
-23 years old, Junior Pricing Analyst, bachelor degree admnistration and business management<br>currently working with excel, sql, power bi, microstrategy, qlikview and learning sql, python, aws
+23 years old, Intern, bachelor degree Admnistration and Business Management 👩🏽‍💻<br>Currently working with Excel, SQL, Power BI, Microstrategy and Qlikview. Learning Python 🐍
 
 
 ## 🌐 Socials:
